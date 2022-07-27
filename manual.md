@@ -1,5 +1,6 @@
 # Git manual
 ## Main command
+
 * __git init__ - initialization of a local repository
 * __git status__ - current state
 * __git add__ - add file(s) to a following commit
@@ -9,4 +10,9 @@
 * __git checkout master__ - get back to actual state and proceed
 * __git diff__ - show difference beetween curent and commited file
 
+---
+
 ## Markdown syntaxis
+
+
+* _# Header_ - Mark header. Numbers of '#' define level of header (6 maximum)
