@@ -8,3 +8,5 @@
 * __git checkout__ - switch commit from one to another
 * __git checkout master__ - get back to actual state and proceed
 * __git diff__ - show difference beetween curent and commited file
+
+## Markdown syntaxis
