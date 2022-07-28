@@ -27,3 +27,4 @@
 ## Work with images
 
 * To add image put an image file (jpg etc) to the working directory and use command: \!\[some text\]\(filename\).
+## Work with links
