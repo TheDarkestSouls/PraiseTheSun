@@ -25,3 +25,5 @@
 * 1, 2, 3 - _numbered lists_
 
 ## Work with images
+
+* To add image put an image file (jpg etc) to the working directory and use command: \!\[some text\]\(filename\).
