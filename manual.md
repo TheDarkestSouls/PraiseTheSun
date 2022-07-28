@@ -24,3 +24,4 @@
 * \* line - _unnumbered lists, symbol(*)_
 * 1, 2, 3 - _numbered lists_
 
+## Work with images
