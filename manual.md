@@ -15,4 +15,12 @@
 ## Markdown syntaxis
 
 
-* _# Header_ - Mark header. Numbers of '#' define level of header (6 maximum)
+* '# Header' - _Mark header. Numbers of '#' define level of header (6 maximum)_
+* '= or -' - _Use(3 times min) to mark 1st and 2nd level header_
+* \*\***bold text** \*\* _or_ \_\___bold text__ \_\_
+* \**italic*\* _or_ \__italic_\_
+* \*\*\****bold italic***\*\*\*
+* \~\~~~struck out text~~\~\~
+* \* line - _unnumbered lists, symbol(*)_
+* 1, 2, 3 - _numbered lists_
+
