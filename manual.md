@@ -1,6 +1,8 @@
 # Git manual
 ## Main command
 
+* __git config --global user.name "name"__ - set a user name
+* __git config --global user.email "email"__ - set an email adress
 * __git init__ - initialization of a local repository
 * __git status__ - current state
 * __git add__ - add file(s) to a following commit
@@ -10,9 +12,14 @@
 * __git log --oneline__ - show brief history
 * __git log --graph__ - show history graphically
 * __git log --graph --oneline__ - brief graphical history
-* __git checkout__ - switch commit from one to another
+* __git checkout "commit_hash-code"__ - switch commit from one to another
 * __git checkout master__ - get back to actual state and proceed
 * __git diff__ - show difference beetween curent and commited file
+* __git branch__ - show all branches and which you are currently on
+* __git branch "new_branch_name"__ - add new branch
+* __git checkout "branch_name"__ - switch to another branch
+* __git merge "branch_name"__ - merge another branch with which you are currently on
+
 
 ---
 
