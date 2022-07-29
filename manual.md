@@ -29,3 +29,9 @@
 * To add image put an image file (jpg etc) to the working directory and use command: \!\[some text\]\(filename\).
 ![conflict](Conflict.bmp)
 ## Work with links
+
+## Work with tables
+
+## Quotes
+
+## Summary
