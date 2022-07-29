@@ -46,4 +46,19 @@
 
 ## Quotes
 
+### "May the force be with you"
+Star Wars (1977)
+
+### _"My mama always said life was like a box of chocolates. You never know what you're gonna get."_
+Forrest Gump (1994)
+
+### _"I'm gonna make him an offer he can't refuse."_
+The Godfather (1972)
+
+### _"A boy's best friend is his mother."_
+Psycho (1960)
+
+### _"You've got to ask yourself one question: 'Do i feel lucky?' Well, do ya, punk?"_
+Dirty Harry (1971)
+
 ## Summary
