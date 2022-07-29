@@ -18,6 +18,7 @@
 * __git branch__ - show all branches and which you are currently on
 * __git branch "new_branch_name"__ - add new branch
 * __git checkout "branch_name"__ - switch to another branch
+* __git branch -d "branch_to_delete"__ - delete branch
 * __git merge "branch_name"__ - merge another branch with which you are currently on
 
 
