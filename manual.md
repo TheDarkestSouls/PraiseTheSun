@@ -46,7 +46,7 @@
 
 ## Quotes
 
-### "May the force be with you"
+### _"May the force be with you"_
 Star Wars (1977)
 
 ### _"My mama always said life was like a box of chocolates. You never know what you're gonna get."_
