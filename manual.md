@@ -21,6 +21,9 @@
 * __git branch -d "branch_to_delete"__ - delete branch
 * __git merge "branch_name"__ - merge another branch with which you are currently on
 * __git merge --abort__ - abort the merge before commiting
+* __git clone "repo_link"__ - clone remote repo to a local
+* __git pull__ - download and merge all data from a personal account repository
+* __git push__ - send local repo version to a personal remote repo __(NEED AUTHORIZATION on a remote repository)__
 
 
 ---
