@@ -41,7 +41,21 @@
 * To add image put an image file (jpg etc) to the working directory and use command: \!\[some text\]\(filename\).
 ![conflict](Conflict.bmp)
 ## Work with links
-Is it links, zwo, drei, vier?
+There are few ways to create links:
+
+* [inline style link](https://www.wikipedia.org/)
+* [inline style link with title](https://www.wikipedia.org/ "Wikipedia's Homepage")
+* [reference style link][Arbitrary case-insensitive reference text]*
+* [relative reference to a repository file](https://github.com/TheDarkestSouls/PraiseTheSun)
+* [Numbers can be used for reference-style link definitions][1]*
+* [link text itself]*
+
+\* Reference links can follow later.
+
+[arbitrary case-insensitive reference text]: https://www.mozilla.org
+[1]: https://www.nasa.gov/
+[link text itself]: https://www.fourseasons.com/
+
 ## Work with tables
 What is this?  
 ## Quotes
