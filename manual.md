@@ -96,5 +96,6 @@ Psycho (1960)
 Dirty Harry (1971)
 
 ## Summary
-I know knothing about git and markdown yet, but i keep studying.
+I know all the main git commands, and about markdown too.
+Maybe one day I'll make a Terminator. 
 
