@@ -43,8 +43,15 @@
 3. Create a branch with suggested changes.
 4. Make all changes in only this branch.
 5. Send all changes to your account (__push__).
-6. In the github window a pull request option appears.
-![request1](request1)
+6. In the github window a pull request option appears(see below)
+
+![request1](request1.bmp)
+
+![request2](request2.bmp)
+
+![request3](request3.bmp)
+
+
 
 
 ---
