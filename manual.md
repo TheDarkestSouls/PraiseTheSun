@@ -25,6 +25,17 @@
 * __git pull__ - download and merge all data from a personal account repository
 * __git push__ - send local repo version to a personal remote repo __(NEED AUTHORIZATION on a remote repository)__
 
+## Work with github
+
+### Push and pull operations
+
+1. Create account on github.com.
+2. Create local repository.
+3. "Make a friendship" beetween local and remote repository. Github will assist with that.
+4. Send (push) a local repository to a remote (on github). __Authorization__ on a remote account may be needed.
+5. Make changes from a remote PC.
+6. Download (pull) actual state from a remote repo.
+
 
 ---
 
