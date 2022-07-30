@@ -36,6 +36,14 @@
 5. Make changes from a remote PC.
 6. Download (pull) actual state from a remote repo.
 
+### Pull requests
+
+1. Make a fork of a repository which we interested in.
+2. Make __git clone__ for a local version of this repository.
+3. Create a branch with suggested changes.
+4. Make all changes in only this branch.
+5. Send all changes to your account (__push__).
+6. In the github window a pull request option appears.
 
 ---
 
