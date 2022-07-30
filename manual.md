@@ -45,6 +45,6 @@ Is it links, zwo, drei, vier?
 ## Work with tables
 What is this?  
 ## Quotes
-
+I know some quotes but i don't think you'd like them.
 ## Summary
 
