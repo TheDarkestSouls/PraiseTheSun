@@ -77,21 +77,22 @@ Markdown | Less | Pretty
 *Still* | `renders` | **nicely**
 1 | 2 | 3
 
+
 ## Quotes
 I know some quotes but i don't think you'd like them.
 
 ### _"May the force be with you"_
 Star Wars (1977)
-
+___
 ### _"My mama always said life was like a box of chocolates. You never know what you're gonna get."_
 Forrest Gump (1994)
-
+___
 ### _"I'm gonna make him an offer he can't refuse."_
 The Godfather (1972)
-
+___
 ### _"A boy's best friend is his mother."_
 Psycho (1960)
-
+___
 ### _"You've got to ask yourself one question: 'Do i feel lucky?' Well, do ya, punk?"_
 Dirty Harry (1971)
 
