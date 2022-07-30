@@ -47,5 +47,6 @@ What is this?
 ## Quotes
 I know some quotes but i don't think you'd like them.
 ## Summary
-I know knothing about git and markdown yet, but i keep studying.
+I know all the main git commands, and about markdown too.
+Maybe one day I'll make a Terminator. 
 
